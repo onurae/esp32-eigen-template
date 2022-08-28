@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+build/*
+eigen-3.4.0/*
+sdkconfig
+sdkconfig.old
