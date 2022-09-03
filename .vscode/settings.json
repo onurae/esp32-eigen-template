@@ -86,7 +86,8 @@
         "numeric": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "dense": "cpp"
     },
     "idf.portWin": "COM4",
     "idf.adapterTargetName": "esp32"
