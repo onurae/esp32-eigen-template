@@ -9,4 +9,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 
 # Name of the project
-project(esp32-cpp-template)
+project(esp32-eigen-template)
